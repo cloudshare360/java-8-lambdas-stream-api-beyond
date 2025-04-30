@@ -8,3 +8,6 @@
   - The new Date and Time API
   - Concurrency enhancements
   - Collections API improvements.
+
+  Default Methods in interfaces
+     However, Java 8 introduced the concept of default methods. Default methods are methods that can have a body
