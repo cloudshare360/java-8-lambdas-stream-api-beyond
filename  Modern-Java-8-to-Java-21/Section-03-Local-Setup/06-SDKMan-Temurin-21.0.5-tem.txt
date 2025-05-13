@@ -1,0 +1,21 @@
+Temurin       |     | 24.0.1       | tem     |            | 24.0.1-tem          
+               |     | 24           | tem     |            | 24-tem              
+               |     | 23.0.2       | tem     |            | 23.0.2-tem          
+               |     | 21.0.7       | tem     |            | 21.0.7-tem          
+               |     | 21.0.6       | tem     |            | 21.0.6-tem          
+               |     | 17.0.15      | tem     |            | 17.0.15-tem         
+               |     | 17.0.14      | tem     |            | 17.0.14-tem         
+               |     | 11.0.27      | tem     |            | 11.0.27-tem         
+               |     | 11.0.26      | tem     |            | 11.0.26-tem         
+               |     | 8.0.452      | tem     |            | 8.0.452-tem         
+               |     | 8.0.442      | tem     |            | 8.0.442-tem    
+
+To install specific version of Java 
+```
+sdk install java 21.0.6-tem
+sdk use java 21.0.6-tem
+```
+To check the list of versions installed on the machine;
+```
+sdk list java | grep 'installed'
+```
